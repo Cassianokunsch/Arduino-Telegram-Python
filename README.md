@@ -1,2 +1,2 @@
-Repositório do código de um tutorial que fiz abordando como fazer a comunicação de Python, Arduino e Telegram juntos.
-Link do tutorial - cassianokunsch@pythonanywhere.com
+RepositÃ³rio do cÃ³digo de um tutorial que fiz abordando como fazer a comunicaÃ§Ã£o de Python, Arduino e Telegram juntos.
+Link do tutorial - cassianokunsch.pythonanywhere.com
