@@ -1,0 +1,91 @@
+body{
+	padding-top: 90px;
+}
+
+h1{
+    text-align: center;
+}
+.texto{
+	margin-left: 20%;
+    margin-right: 20%;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Open Sans","Helvetica Neue",sans-serif;
+    text-align: justify;
+}
+
+.titulo{
+	margin-left: 7%;
+	margin-right:30px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+p{
+    font-size: 18px;
+	text-indent: 4%;
+}
+.list{
+	list-style-type: none;
+}
+
+.imgcell{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+	width: 250px;
+	height: 430px;
+    margin-left: 30%;
+	margin-right: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.imgdic{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+	width:366px;
+	height:261px;
+    margin-left: 30%;
+	margin-right:30px;
+	margin-top:30px;
+	margin-bottom:30px;
+
+}
+
+#topo { /* Usa #  para dizer que estou falando de um id */
+	z-index: 51;
+	border-style: solid;
+	border-color:transparent;
+	border-bottom-color: #D8D8D8;
+	border-bottom-width: 1px;
+	background: #143E5B;
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	padding-top: 30px;
+	top: 0;
+	left: 0;
+
+}
+.container { /* Usa . para dizer que estou falando de uma class */
+	width: 85%;
+	margin: auto;
+}
+
+nav {
+	float: right;
+	color: #FFF;
+	} /*alinha o menu a direita*/
+
+nav ul li {
+	display: inline;
+	margin-left: 30px;
+} /*menu em linha e espa?o entre os itens*/
+
+.video{
+	width: 420px;
+	height:315px;
+	margin-left: 30%;
+	margin-right:30px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
